@@ -1,5 +1,7 @@
 # ResearchAssistantAutomation Crew
 
+Crew AI Link: https://app.crewai.com/studio/v2/projects/d207775a-4ab1-4d76-b17b-a1efff633886/editor
+
 Welcome to the ResearchAssistantAutomation Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
 
 ## Installation
